@@ -2,8 +2,6 @@ import os
 import shutil
 from pathlib import Path
 
-
-
 path = Path("D://Downloads")
 
 # Read filename and create folder
